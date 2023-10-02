@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mangal2003
+- 👋 Hi, I’m SHIV MANGAL SINGH.
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning React.
 [![An image of @mangal2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mangal2003)](https://holopin.io/@mangal2003)
